@@ -1,8 +1,8 @@
 if (!settings.survival) {
     settings.survival = {
-        "wall": 999,
-        "dirt": 999,
-        "sapling": 1,
+        "wall": 99999999,
+        "dirt": 99999999,
+        "sapling": 100,
         "seeds": 5,
         "ice": 25,
         "cloner": 1,
