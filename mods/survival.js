@@ -158,7 +158,7 @@ elements.smash.tool = function(pixel) {
 };
 
 elementWorth = {
-    "gold_coin": 1,
+    "gold_coin": 100000000000000000,
     "diamond": 100,
     "ketchup": 15,
     "jelly": 10,
